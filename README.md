@@ -3,3 +3,5 @@ My goal with this channel is to explore the art of cybersecurity and share my fi
 I strive to provide high-quality, informative, and engaging content that resonates with my audience.
 
 [ᴘʟᴇᴀꜱᴇ ʙᴇ ɪɴꜰᴏʀᴍᴇᴅ ᴛʜᴀᴛ ᴛʜɪꜱ ᴘʟᴀᴛꜰᴏʀᴍ ᴀɴᴅ ʀᴇʟᴀᴛᴇᴅ ᴍᴀᴛᴇʀɪᴀʟꜱ ꜱᴇʀᴠᴇ ᴇxᴄʟᴜꜱɪᴠᴇʟʏ ᴀꜱ ᴀ ꜱᴏᴜʀᴄᴇ ᴏꜰ ᴇᴅᴜᴄᴀᴛɪᴏɴᴀʟ ᴄᴏɴᴛᴇɴᴛ. ɪᴛ ᴍᴜꜱᴛ ʙᴇ ᴇᴍᴘʜᴀꜱɪᴢᴇᴅ ᴛʜᴀᴛ ᴜɴᴅᴇʀ ɴᴏ ᴄɪʀᴄᴜᴍꜱᴛᴀɴᴄᴇꜱ ᴅᴏ ᴛʜᴇꜱᴇ ʀᴇꜱᴏᴜʀᴄᴇꜱ ᴘʀᴏᴍᴏᴛᴇ ᴏʀ ᴇɴᴄᴏᴜʀᴀɢᴇ ᴜɴʟᴀᴡꜰᴜʟ ᴄᴏɴᴅᴜᴄᴛ ᴀʀɪꜱɪɴɢ ꜰʀᴏᴍ ᴛʜᴇɪʀ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ.]
+
+If you have any questions, feedback, or just want to say hello, please don't hesitate to reach out. You can connect with me on social media;
