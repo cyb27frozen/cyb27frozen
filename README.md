@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to My GitHub Profile👋 ꜱᴄɪ ꜰʀᴏᴢᴇɴ</h1>
 <h3 align="center">High School Student | I.T. Enthusiast | Building Tomorrow's Solutions</h3>
-<img align="center" alt="Sci Frozen" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAM/hacker-python.gif">
+<img align="right" alt="Sci Frozen" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAM/hacker-python.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb27frozen&label=Profile%20views&color=0e75b6&style=flat" alt="cyb27frozen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyb27frozen" alt="cyb27frozen" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cyb27frozen" target="blank"><img src="https://img.shields.io/twitter/follow/cyb27frozen?logo=twitter&style=for-the-badge" alt="cyb27frozen" /></a> </p>
+<p align="left"> <a href="https://x.com/cyb27frozen?t=bHmAGPL47ybjb9cRxZxBag&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/cyb27frozen?logo=twitter&style=for-the-badge" alt="cyb27frozen" /></a> </p>
 
 - 🔭 I’m currently working on **enhancing my skills**
 
@@ -22,9 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cyb27frozen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyb27frozen" height="30" width="40" /></a>
-<a href="https://instagram.com/cyb27frozen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyb27frozen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sci frozen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sci frozen" height="30" width="40" /></a>
+<a href="https://m.youtube.com/channel/UC_mvXBFfMrte_c8jNYgr2xw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sci frozen" height="30" width="40" /></a>
+<a href="https://x.com/cyb27frozen?t=bHmAGPL47ybjb9cRxZxBag&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyb27frozen" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cyb27frozen/?igsh=ZGUzMzM3NWJiOQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyb27frozen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61559034515983&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sci frozen" height="30" width="40" /></a>
+<a href="https://t.me/SciBackUp" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-226554.png?f=webp&w=512" alt="sci frozen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyb27frozen&show_icons=true&locale=en" alt="cyb27frozen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyb27frozen&" alt="cyb27frozen" /></p>
-
